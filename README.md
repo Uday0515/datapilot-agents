@@ -1,4 +1,4 @@
-# Multi-Agent Data Analyst
+# DATAPILOT-AGENTS
 
 An interactive Streamlit application that turns a CSV dataset into an end-to-end
 analysis workflow. Specialized agents profile the data, perform exploratory
