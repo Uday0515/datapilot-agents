@@ -10,3 +10,4 @@ nbformat
 jsonschema
 python-dotenv
 joblib
+statsmodels
